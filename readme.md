@@ -1,5 +1,4 @@
-<img src="https://github.com/marloneofc/mzn-pro/blob/d66b6ec2396e13de1fd65513ff07bca998880803/extra/20221018_231709png">
-
+<img src="https://github.com/marloneofc/mzn-pro/blob/2c354870b5751d5b2f40918a8d401b36232e04fc/extra/20221018_231709.png">
 <h1 align="center" style="color:#1E74FD; border: 5px solid #1E74FD"> 
   MZNY PRO</h1>
   
