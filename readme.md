@@ -1,12 +1,32 @@
-<center>
-<img src="https://github.com/marloneofc/mzn-pro/blob/7a64f6238e0d804f2ebaf7666ce6bd43e85b6315/extra/20221018_231709.png">
+<img src="https://github.com/marloneofc/mzn-pro/blob/d66b6ec2396e13de1fd65513ff07bca998880803/extra/20221018_231709png" align="center" alt="Logo">
 
-<p>MZN is a front end framework whose main objective is to reduce the amount of code written in css</>
+<h1 align="center" style="color:#1E74FD; border: 5px solid #1E74FD"> 
+  MZNY PRO</h1>
+  
+<p align="center" style="color:#495A69; font-size: 14px; text-decoration: underline overline">A FULL-FEATURED FRAMEWORK FOR WEB DEV</p>
 
-<p>Copyright © 2022 Marlone Dantas
+<p align="left">
+<strong style="color:red">⚠️ WARNING:</strong> we are in the initial version and it may be that if you are a more advanced user you will miss a lot of features. Be patient as soon all essential features will be available. If you want to help the project, send it to me and then I'll update the content 
+</p>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+<p align="left">
+   <strong style="color: #1DCC70">✅ BENEFITS:</strong> easy to make layouts, buttons and less code usage, withoueasy to make layouts, buttons and less code usage and can use commercially without any restriction.</p>
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+<p align="left">
+  Want to follow my routine? or get in touch?
+</p>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<p>
+<p align="left">
+
+  <a href="https://github.com/marloneofc" alt="Github">
+  <img src="https://shields.io/badge/Github--blue?logo=github&style=social"/></a>
+
+  <a href="https://twitter.com/ofcmarlone" alt="Twitter">
+  <img src="https://shields.io/badge/Twitter--blue?logo=twitter&style=social"/></a>
+
+  <a href="https://instagram.com/marloneofc" alt="Instagram">
+  <img src="https://shields.io/badge/Instagram--red?logo=instagram&style=social" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/channel/UCtTCQayNa8QHQkY_xI-vDyw?si=ELPmzJkDCLju2KnD5oyZMQ">
+    <img src="https://shields.io/badge/Youtube--red?logo=youtube&style=social" alt="Youtube"></a>
+    <a href="https://github.com/marloneofc/mzn-pro/blob/d66b6ec2396e13de1fd65513ff07bca998880803/license"><img src="https://shields.io/badge/license-MIT-green" alt="MIT"></a>
+</p>  
